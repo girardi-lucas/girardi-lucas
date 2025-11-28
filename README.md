@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Lucas Girardi! 👋
 
 Sou um desenvolvedor apaixonado por Back-end e tecnologia.
 
