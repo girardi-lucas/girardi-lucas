@@ -1,14 +1,46 @@
-# 💫 Sobre Mim:
-Atualmente trabalho como desenvolvedor free-lancer, criando API'S RESTful em Java, também trabalho com front-end mesmo não sendo meu foco.<br>Sou estudante de ADS pelo Instituto Infnet.<br>Amo o que faço, a tecnologia pra mim foi uma mudança de vida pra melhor, como pessoa e como profissional.
+[README.md](https://github.com/user-attachments/files/29302797/README.md)
+<h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
+<p align="center">
+  Profissional de Tecnologia | Back-end & Análise de Dados
+</p>
 
-## 🌐 Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucasbortolottogirardi@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <a href="https://br.linkedin.com/in/lucas-girardi-896331382">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:lucasbortolottogirardi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=girardi-lucas&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Sobre mim
+
+Atuo na área de tecnologia com foco em **back-end** e **análise de dados**, unindo lógica de programação sólida ao trabalho com dados para gerar soluções eficientes e bem estruturadas.
+
+- 🔧 Foco em desenvolvimento back-end e manipulação/análise de dados
+- 📚 Base em Programação Orientada a Objetos (POO)
+- 🌱 Sempre evoluindo e ampliando o stack técnico
+
+---
+
+### Stack & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+**Conceitos:** Programação Orientada a Objetos (POO)
+
+---
+
+### Contato
+
+📧 [lucasbortolottogirardi@gmail.com](mailto:lucasbortolottogirardi@gmail.com)
+💼 [linkedin.com/in/lucas-girardi](https://br.linkedin.com/in/lucas-girardi-896331382)
+
