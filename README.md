@@ -1,8 +1,7 @@
-[README.md](https://github.com/user-attachments/files/29302797/README.md)
 <h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
 <p align="center">
-  Profissional de Tecnologia | Back-end & Análise de Dados
+  Desenvolvedor Back-end
 </p>
 
 <p align="center">
@@ -18,24 +17,23 @@
 
 ### Sobre mim
 
-Atuo na área de tecnologia com foco em **back-end** e **análise de dados**, unindo lógica de programação sólida ao trabalho com dados para gerar soluções eficientes e bem estruturadas.
+Estudante de **Engenharia de Software** com foco prático em desenvolvimento back-end. Busco construir soluções de forma minimalista e realista, priorizando código limpo, funcional e bem estruturado.
 
-- 🔧 Foco em desenvolvimento back-end e manipulação/análise de dados
-- 📚 Base em Programação Orientada a Objetos (POO)
-- 🌱 Sempre evoluindo e ampliando o stack técnico
+- 🔧 Foco atual no ecossistema **PHP** e bancos de dados relacionais
+- 📚 Base sólida em Programação Orientada a Objetos (POO) e princípios de engenharia
+- 🌱 Desenvolvendo aplicações diretas ao ponto, sem complexidade desnecessária
 
 ---
 
 ### Stack & Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-**Conceitos:** Programação Orientada a Objetos (POO)
+**Conceitos:** Programação Orientada a Objetos (POO), Arquitetura de Software
 
 ---
 
@@ -43,4 +41,3 @@ Atuo na área de tecnologia com foco em **back-end** e **análise de dados**, un
 
 📧 [lucasbortolottogirardi@gmail.com](mailto:lucasbortolottogirardi@gmail.com)
 💼 [linkedin.com/in/lucas-girardi](https://br.linkedin.com/in/lucas-girardi-896331382)
-
